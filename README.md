@@ -9,7 +9,7 @@ prices are the best ones in a given time span. If so, the monitor sends an email
 Installing and Running
 Clone this repo:
 
- $ git clone git@github.com:stummjr/scrapy_price_monitor.git
+ $ git clone git@github.com:YajashJhamb/Price-Monitoring-Tool.git
 
 Enter the folder and install the project dependencies:
 ```
